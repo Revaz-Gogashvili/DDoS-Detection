@@ -3,5 +3,4 @@ __pycache__/
 .idea/
 .vscode/
 server.log
-ddos_plot.png
 venv/
